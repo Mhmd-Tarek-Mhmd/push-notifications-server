@@ -1,0 +1,6 @@
+node_modules
+push.sqlite
+push.sqlite-shm
+push.sqlite-wal
+.env
+.git
